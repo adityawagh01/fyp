@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^5.15.8",
+    "node-fetch": "^3.3.2",
+    "routific": "^0.0.5"
+  }
+}

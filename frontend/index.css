@@ -1,0 +1,11 @@
+body{
+    margin:0;
+    background-color: #B4B4B8;
+   
+}
+#root{
+    margin:15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

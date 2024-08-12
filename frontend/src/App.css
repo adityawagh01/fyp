@@ -1,0 +1,34 @@
+.heading{
+    color: #FFC94A;
+}
+.main-app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding:100px;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.buttons>button {
+    background-color: #F5DD61;
+    color: black;
+    margin: 20px !important;
+    font-weight: bold;
+    /* border: 2px solid blue; */
+    border-radius: 20px !important; /* Adjust as needed for the desired curve */
+    padding: 10px 20px; /* Adjust padding as needed */
+    cursor: pointer; /* Add cursor style for interactivity */
+  }
+  
+  /* Additional styles for hover effect */
+  .buttons>button:hover {
+    border: 4px solid #FAA300; /* Change background color on hover */
+    /* color: white; Change text color on hover */
+  }
+  
